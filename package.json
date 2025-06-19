@@ -1,0 +1,37 @@
+{
+  "name": "cipheraudit",
+  "version": "0.1.0",
+  "description": "Homomorphic Encrypted Accounting Ledger on Blockchain",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CAFECA-IO/CipherAudit.git"
+  },
+  "keywords": [
+    "Blockchain",
+    "Homomorphic",
+    "Encryption",
+    "Zero-Knowledge",
+    "Proof",
+    "Secure",
+    "Ledger"
+  ],
+  "author": "CAFECA",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CAFECA-IO/CipherAudit/issues"
+  },
+  "homepage": "https://github.com/CAFECA-IO/CipherAudit#readme",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "@nomicfoundation/hardhat-toolbox-viem": "^3.0.0",
+    "dotenv": "^16.5.0",
+    "hardhat": "^2.24.3"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.3.0"
+  }
+}

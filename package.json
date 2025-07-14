@@ -1,5 +1,5 @@
 {
-  "name": "cipheraudit",
+  "name": "aura",
   "version": "0.1.0",
   "description": "Homomorphic Encrypted Accounting Ledger on Blockchain",
   "main": "index.js",
